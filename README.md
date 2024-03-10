@@ -1,6 +1,9 @@
+
 # Databas för svenska fiskarter
 
 Detta repository innehåller en öppen JSON-databas över svenska fiskarter. Den är avsedd att användas som en resurs för utvecklare för att exempelvis skapa fiskeapplikationer.
+
+![gädda](https://github.com/lucasros98/svenska-fiskearter/assets/47554985/beca355f-55cc-4094-9cfd-89966236f365)
 
 ## Innehåll
 
