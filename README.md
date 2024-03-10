@@ -1,4 +1,4 @@
-# Svenska fiskarter
+# Databas för svenska fiskarter
 
 Detta repository innehåller en öppen JSON-databas över svenska fiskarter. Den är avsedd att användas som en resurs för utvecklare för att exempelvis skapa fiskeapplikationer.
 
