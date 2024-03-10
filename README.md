@@ -16,7 +16,7 @@ JSON-filen (`swedish_fish_species.json`) innehåller information om varje fiskar
 
 ## Hur man använder denna databas
 
-Denna databas är fri att användas och kan integreras direkt i fiskeapplikationer, utbildningsmaterial eller forskningsprojekt. Du kan enkelt importera JSON-filen i ditt projekt och använda den som en uppslagsresurs.
+Denna databas är fri att användas och kan integreras direkt i exempelvis fiskeapplikationer eller för utbildningsmaterial. Du kan enkelt importera JSON-filen i ditt projekt och använda den som en uppslagsresurs.
 
 Exempel på kod för att läsa in JSON-filen:
 
