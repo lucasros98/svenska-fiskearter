@@ -304,5 +304,50 @@
       "habitat": "Sötvatten, bräckt vatten och hav",
       "minimumSize": "Fisket är förbjudet",
       "swedishRecord": "3,725 kg"
+  },
+  {
+    "swedishName": "Nors",
+    "scientificName": "Osmerus eperlanus L.",
+    "description": "Uppträder i ofantligt stora stim.",
+    "occurrence": "Mellansverige",
+    "habitat": "Sötvatten och hav",
+    "minimumSize": "Inget minimimått",
+    "swedishRecord": "Okänt"
+  },
+  {
+    "swedishName": "Bergsimpa",
+    "scientificName": "Cottus poecilopus",
+    "description": "Liten fisk. Mycket likt stensimpa.",
+    "occurrence": "Mellansverige",
+    "habitat": "Sötvatten",
+    "minimumSize": "Inget minimimått",
+    "swedishRecord": "Okänt"
+  },
+  {
+    "swedishName": "Stensimpa",
+    "scientificName": "Cottus gobio",
+    "description": "Bottenfisk som föredrar grunt vatten med hårda bottnar. Går ner till djupare vatten under vintern.",
+    "occurrence": "Mellansverige",
+    "habitat": "Sötvatten",
+    "minimumSize": "Inget minimimått",
+    "swedishRecord": "Okänt"
+  },
+  {
+    "swedishName": "Gärs",
+    "scientificName": "Gymnocephalus cernuus",
+    "description": "Gärsen är en fisk i ordningen abborrartade fiskar som lever i sött och bräckt vatten.",
+    "occurrence": "Mellansverige",
+    "habitat": "Sötvatten och bräckt vatten",
+    "minimumSize": "Inget minimimått",
+    "swedishRecord": "Okänt"
+  },
+  {
+    "swedishName": "Hornsimpa",
+    "scientificName": "Myoxocephalus quadricornis",
+    "description": "Lever i hav och djupa sjöar från grunda bottnar ner till 100 meters djup.",
+    "occurrence": "Ovanlig",
+    "habitat": "Sötvatten, bräckt vatten och hav",
+    "minimumSize": "Inget minimimått",
+    "swedishRecord": "Okänt"
   }
 ]
