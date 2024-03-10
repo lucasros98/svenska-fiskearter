@@ -4,7 +4,7 @@ Detta repository innehåller en öppen JSON-databas över svenska fiskarter. Den
 
 ## Innehåll
 
-JSON-filen (`fiskarter.json`) innehåller information om varje fiskart, inklusive:
+JSON-filen (`swedish_fish_species.json`) innehåller information om varje fiskart, inklusive:
 
 - Svenskt namn
 - Vetenskapligt namn
@@ -21,6 +21,6 @@ Denna databas är fri att användas och kan integreras direkt i fiskeapplikation
 Exempel på kod för att läsa in JSON-filen:
 
 ```javascript
-const fiskarter = require('./fiskarter.json');
+const fiskarter = require('./swedish_fish_species.json');
 console.log(fiskarter);
 ```
